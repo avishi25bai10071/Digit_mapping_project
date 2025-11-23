@@ -34,10 +34,4 @@ SAMPLE OUTPUT:<br>
  <img width="1920" height="1008" alt="Screenshot 2025-11-23 153815" src="https://github.com/user-attachments/assets/3fa4fb4a-6b0a-4b98-81f0-473fd685024b" />
 
 
-Screenshots:<br>
-PROGRAM:<br>
- <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0ff8a815-cd59-42f4-9685-c8b3efee97a4" />
-
-SAMPLE OUTPUT:<br>
- <img width="1920" height="1008" alt="Screenshot 2025-11-23 153815" src="https://github.com/user-attachments/assets/3fa4fb4a-6b0a-4b98-81f0-473fd685024b" />
 
