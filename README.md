@@ -1,7 +1,7 @@
 # Digit_mapping_project
-Python program that separates each digit of the numbers from 1 to n and stores them and display them in form of list and allow the user to an index and display the original number from which that digit was taken.
-PROJECT TITLE: Digit seperation and original Number Finder
-Overview: This Program aims to generate a continuous list of digits by seperating every number from 1 to n into its individual digits.
+Python program that separates each digit of the numbers from 1 to n and stores them and display them in form of list and allow the user to an index and display the original number from which that digit was taken. <br>
+PROJECT TITLE: Digit seperation and original Number Finder <br>
+Overview: This Program aims to generate a continuous list of digits by seperating every number from 1 to n into its individual digits. <br>
 After creating the list, user is allowed to enter an index value which traces back and display the complete number from which the selected digit was taken.
 FEATURES: 	 Digit Seperation	 Original Number Tracking	 Index-Bases Retrieval
 Technologies/Tools Used:	Python Programming language
