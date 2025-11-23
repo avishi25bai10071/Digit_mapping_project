@@ -5,26 +5,35 @@ Overview: <br> This Program aims to generate a continuous list of digits by sepe
 After creating the list, user is allowed to enter an index value which traces back and display the complete number from which the selected digit was taken.<br>
 FEATURES: <br> Digit Seperation	<br> Original Number Tracking	 <br> Index-Bases Retrieval <br>
 Technologies/Tools Used:<br>
-1. Python Programming language<br>
-2. Visual Studio Code <br>
-3. Basic Python Libraries <br>
-4. Terminal <br>
+•	Python Programming language<br>
+•	 Visual Studio Code <br>
+•	 Basic Python Libraries <br>
+•	 Terminal <br>
 Steps To Install & Run The Project: <br>
-1. Open The Python File and run the code. <br>
-2. Enter the required inputs. <br>
-    •	First, The program will ask for the value of number you want to separate. <br>
-    •	Then it will ask for an index for which you want the original number.<br>
-3. Check the Output. <br>
+•	Open The Python File and run the code. <br>
+•	 Enter the required inputs. <br>
+	First, The program will ask for the value of number you want to separate. <br>
+	Then it will ask for an index for which you want the original number.<br>
+•	 Check the Output. <br>
 Instructions for Testing: <br>
-1. Start the Program. <br>
-2. Enter The Value of n. <br>	3.Check the generated digit list. <br>
-   •	All numbers from 1 to n have been seperated into individual. <br>
-   •	The last digit of n has been removed. <br>
-4. Enter a Test Index. <br>
-5. Verify The Output. <br>
-6. Test Multiple Index Values. <br>
-7. Validate Mapping Logic. <br>
-8. Observe Program Stability.<br>
+•	Start the Program. <br>
+•	Enter The Value of n. <br>	
+•	Check the generated digit list. <br>
+	All numbers from 1 to n have been seperated into individual. <br>
+	The last digit of n has been removed. <br>
+•	Enter a Test Index. <br>
+•	Verify The Output. <br>
+•	Test Multiple Index Values. <br>
+•	Validate Mapping Logic. <br>
+•	Observe Program Stability.<br>
+Screenshots:<br>
+PROGRAM:<br>
+ <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0ff8a815-cd59-42f4-9685-c8b3efee97a4" />
+
+SAMPLE OUTPUT:<br>
+ <img width="1920" height="1008" alt="Screenshot 2025-11-23 153815" src="https://github.com/user-attachments/assets/3fa4fb4a-6b0a-4b98-81f0-473fd685024b" />
+
+
 Screenshots:<br>
 PROGRAM:<br>
  <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0ff8a815-cd59-42f4-9685-c8b3efee97a4" />
