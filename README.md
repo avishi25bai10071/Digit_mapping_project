@@ -3,10 +3,7 @@ Python program that separates each digit of the numbers from 1 to n and stores t
 PROJECT TITLE: Digit seperation and original Number Finder <br>
 Overview: <br> This Program aims to generate a continuous list of digits by seperating every number from 1 to n into its individual digits. <br>
 After creating the list, user is allowed to enter an index value which traces back and display the complete number from which the selected digit was taken.<br>
-FEATURES: <br>
-1. Digit Seperation	<br>
-2. Original Number Tracking	 <br>
-3. Index-Bases Retrieval <br>
+FEATURES: <br> Digit Seperation	<br> Original Number Tracking	 <br> Index-Bases Retrieval <br>
 Technologies/Tools Used:<br>
 1. Python Programming language<br>
 2. Visual Studio Code <br>
